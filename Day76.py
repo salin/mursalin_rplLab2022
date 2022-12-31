@@ -1,20 +1,3 @@
-
-masrialzaidan
-/
-Masri_rplLab2022
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Masri_rplLab2022/Day75.py
-@masrialzaidan
-masrialzaidan program sederhana memanggil class
- 1 contributor
-108 lines (97 sloc)  3.37 KB
 class bangunruang():
     def luaspersegi():
         print("====== Luas Persegi ======")
