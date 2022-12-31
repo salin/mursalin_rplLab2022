@@ -1,3 +1,4 @@
+#mursalin
 class bangunruang():
     def luaspersegi():
         print("====== Luas Persegi ======")
